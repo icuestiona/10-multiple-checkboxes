@@ -3,12 +3,12 @@ html {
   background: #1b9391;
 }
 
-.checkbox-container {
+.container {
   max-width: 400px;
   margin: 50px auto;
   background: white;
   border-radius: 5px;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 0 rgba(41, 39, 39, 0.1);
 }
 
 .item {
